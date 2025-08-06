@@ -14,5 +14,5 @@
 1. b
 1. c        
 
-- [ ] checkout the [github log] (http://github.com)
+- [X] checkout the [github log] (http://github.com)
 - [ ] learn about [github pages](http://pages.github.com)
